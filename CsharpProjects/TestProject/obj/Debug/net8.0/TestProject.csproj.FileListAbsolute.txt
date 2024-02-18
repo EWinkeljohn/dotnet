@@ -1,0 +1,15 @@
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/learnacademy/Desktop/personal-projects/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
